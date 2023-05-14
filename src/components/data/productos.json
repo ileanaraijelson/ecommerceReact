@@ -1,0 +1,83 @@
+
+[{
+    "id": 1,
+    "name": "PlayStation 5 825GB",
+    "image": "https://live.staticflickr.com/65535/52897340466_8a7f42c89c_m.jpg",
+    "category": "consolas",
+    "price": 399000,
+    "description": "Cuenta con: 1 dock, 1 cable de alimentación ca, 1 cable hdmi, 1 cable usb, 1 material impreso, 1 voucher de fifa 23 ultimate team.",
+    "stock": 10
+  }, {
+    "id": 2,
+    "name": "Airpods",
+    "image": "https://live.staticflickr.com/65535/52897728740_e70d29549a_m.jpg",
+    "category": "auriculares",
+    "price": 9990,
+    "description": "Apple AirPods 2",
+    "stock": 10
+  }, {
+    "id": 3,
+    "name": "Auriculares Gamer Onikuma",
+    "image": "https://live.staticflickr.com/65535/52897728725_759db1edaf_m.jpg",
+    "category": "auriculares",
+    "price": 4300,
+    "description": "K1b Rgb Microfono Headset Pc Ps4",
+    "stock": 10
+  }, {
+    "id": 4,
+    "name": "reloj smartwhatch",
+    "image": "https://live.staticflickr.com/65535/52896770292_47782ec053_m.jpg",
+    "category": "relojes",
+    "price": 90,
+    "description": "1G4CW54K714536521",
+    "stock": 10
+  }, {
+    "id": 5,
+    "name": "Despertador digital",
+    "image": "https://live.staticflickr.com/65535/52896770342_1935a1151d_m.jpg",
+    "category": "relojes",
+    "price": 90,
+    "description": "1G4CW54K714536521",
+    "stock": 10
+  }, {
+    "id": 6,
+    "name": "celular",
+    "image": "https://live.staticflickr.com/65535/52897788733_b5b3f0ba54_m.jpg",
+    "category": "celulares y accesorios",
+    "price": 90,
+    "description": "1G4CW54K714536521",
+    "stock": 10
+  }, {
+    "id": 7,
+    "name": "Estacion de carga",
+    "image": "https://live.staticflickr.com/65535/52897340496_be12f54fa8_m.jpg",
+    "category": "celulares y accesorios",
+    "price": 90,
+    "description": "1G4CW54K714536521",
+    "stock": 10
+  }, {
+    "id": 8,
+    "name": "Joystick ps5",
+    "image": "https://live.staticflickr.com/65535/52897506174_6ddef95560_m.jpg",
+    "category": "consolas",
+    "price": 90,
+    "description": "1G4CW54K714536521",
+    "stock": 10
+  }, {
+    "id": 9,
+    "name": "silla gamer",
+    "image": "https://live.staticflickr.com/65535/52897788728_e5ff4e18d2_m.jpg",
+    "category": "consolas",
+    "price": 90,
+    "description": "1G4CW54K714536521",
+    "stock": 10
+  }, {
+    "id": 10,
+    "name": "Memoria Ram",
+    "image": "https://live.staticflickr.com/65535/52897340501_a543ba47be_m.jpg",
+    "category": "computadora",
+    "price": 90,
+    "description": "1G4CW54K714536521",
+    "stock": 10
+  }]
+  
