@@ -25,6 +25,9 @@ export const NavBar = () => {
             <Nav.Link href="/contacto/contacto">contacto</Nav.Link>
           </Nav>
         </Navbar.Collapse>
+        <Nav>
+            <Nav.Link href="#cartwidget"><CartWidget /> 1</Nav.Link>
+          </Nav>
       </Container>
     </Navbar>
     );
